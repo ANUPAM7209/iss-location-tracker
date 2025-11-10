@@ -278,3 +278,4 @@
 {"message": "success", "timestamp": 1762518424, "iss_position": {"longitude": "87.5865", "latitude": "5.6398"}}
 {"message": "success", "iss_position": {"latitude": "2.0063", "longitude": "-103.5706"}, "timestamp": 1762604621}
 {"message": "success", "iss_position": {"longitude": "70.3194", "latitude": "-2.2901"}, "timestamp": 1762691009}
+{"message": "success", "iss_position": {"latitude": "-13.4736", "longitude": "-104.0455"}, "timestamp": 1762777689}
